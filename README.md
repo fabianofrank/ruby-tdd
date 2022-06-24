@@ -33,11 +33,12 @@ Run `rspec solver_rspec.rb`
 - Twitter: [@fabianofrankk](https://twitter.com/fabianofrankk)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabianofrank/)
 
-👤 **Amina**
+👤 **Amina Buhari**
 
-- GitHub: [@](https://github.com/)
-- Twitter: [@](https://twitter.com/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in//)
+- GitHub: [@githubhandle](https://github.com/AminaBuhari)
+- Twitter: [@twitterhandle](https://twitter.com/AminaBuhari)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amina-buhari/)
+
 
 
 ## 🤝 Contributing
