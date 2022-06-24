@@ -1,4 +1,4 @@
-require_relative 'solver'
+require_relative '../solver'
 
 describe Solver do
   context 'Given a new instace of the class' do
