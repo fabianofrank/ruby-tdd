@@ -20,5 +20,3 @@ class Solver
     end
   end
 end
-
-puts (Solver.new).factorial(6)
