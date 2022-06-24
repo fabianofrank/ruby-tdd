@@ -3,7 +3,7 @@ require_relative 'solver'
 describe Solver do
   context 'Given a new instace of the class' do
     solver = Solver.new
-    
+
     it 'test if the method factorial(n) receives an interger parameter and returns (n!)' do
       expect(solver.factorial(6)).to eq 720
     end

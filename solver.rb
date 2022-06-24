@@ -1,4 +1,5 @@
 class Solver
+  # rubocop:disable Style/GuardClause
   def factorial(interger)
     if interger >= 0
       (2..interger).reduce(1, :*)
@@ -6,6 +7,7 @@ class Solver
       raise 'This is an exception'
     end
   end
+  # rubocop:enable Style/GuardClause
 
   def reverse(string)
     string.reverse
