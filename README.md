@@ -23,7 +23,7 @@ Run `git clone https://github.com/fabianofrank/ruby-tdd.git`
 ### Usage
 Navigate to the directory with `cd ruby-tdd`.
 ### Run tests
-Run `rspec solver_rspec.rb`
+Run `rspec`
 
 ## Author
 
